@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/mignon_img.jpg);
+    background-size: cover;
+}
+
+.ligne{
+    display: flex;
+}
+
+.image{
+    width: 30%;
+    height: 30%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    border-radius: 1%;
+    padding-top: 3%;
+}

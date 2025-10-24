@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/creeper.webp);
+    background-size: cover;
+}
+
+.ligne1{
+    display: flex;
+}
+
+.image{
+    width: 30%;
+    height: 30%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    border-radius: 1%;
+    padding-top: 3%;
+}
+
+.ligne2{
+    display: flex;
+}
+
+.image_H{
+    width: 95%;
+    height: 100%;
+    padding-left: 2.5%;
+    padding-top: 100px;
+    padding-bottom: 3%;
+    border-radius: 2%;
+}
